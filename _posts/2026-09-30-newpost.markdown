@@ -1,6 +1,0 @@
----
-layout: post
-title: New Post
-author: Maddie Racer
----
-This is the first post I am making on my new site.
