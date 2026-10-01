@@ -22,8 +22,8 @@ title: New Website
 email: mracer@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a test creating a new website with jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test-jekyll-site" # the subpath of your site, e.g. /blog
+url: "https://maddieracer.github.io/new-site-test/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maddieracer
 
 # Build settings
