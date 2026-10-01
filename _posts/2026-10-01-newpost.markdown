@@ -1,0 +1,6 @@
+---
+layout: post
+title: New Post
+author: Maddie Racer
+---
+This is a new post testing my website.
